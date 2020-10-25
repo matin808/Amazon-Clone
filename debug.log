@@ -1,0 +1,10 @@
+[0925/171956.058:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Lenovo\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0925/171956.066:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0925/171956.114:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0925/171956.118:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Lenovo\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0925/173814.695:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Lenovo\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0925/173814.712:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0925/173814.716:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Lenovo\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0927/134116.280:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Lenovo\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0927/134116.318:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0927/134116.322:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Lenovo\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
